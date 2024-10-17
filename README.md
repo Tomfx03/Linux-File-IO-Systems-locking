@@ -89,3 +89,9 @@ return 0;
 ### lock.o
 ![image-2](https://github.com/user-attachments/assets/f67ffcb0-2a50-4f62-9c60-278279f8d0fd)
 
+
+# RESULT:
+The programs are executed successfully.
+
+
+
