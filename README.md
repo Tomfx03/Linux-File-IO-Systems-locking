@@ -84,7 +84,8 @@ return 0;
 
 ## OUTPUT
 ### filecopy.o
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/1207b6a3-0d19-4779-a3e6-fdd4eb492c4d)
 
 ### lock.o
-![alt text](image-2.png)
+![image-2](https://github.com/user-attachments/assets/f67ffcb0-2a50-4f62-9c60-278279f8d0fd)
+
